@@ -1,6 +1,18 @@
 @import url(font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
 
+/* Two */
+
+#header.<
+<div class="image fit captioned">
+<a href="https://www.facebook.com/events/553910382490022/?event_time_id=553910395823354"><img src="images/flyers/recruitmentevents.jpg"></a>
+<h3>Fall 2021 Recruitment</h3>
+</div>
+
+, #header.alt nav a:hover {
+	color: #FFF;
+	"6u 12u$(xsmall)"
+
 
 /* Reset */
 
@@ -1592,7 +1604,8 @@
 /* Type */
 
 	body {
-		background-color: #fff;
+		background-color: rgb(59, 31, 31);
+		background-image: url("logo_empty_1.jpg");
 		color: #666;
 	}
 
